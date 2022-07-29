@@ -1,0 +1,46 @@
+.superior{
+    background-color: white;
+}
+
+.img{
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+    display: block;
+}
+
+.imgb{
+    float: right;
+    margin-top: -25%;
+    display: block;
+}
+
+.imgc{
+    width: -10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+    display: block;
+}
+
+.imgd{
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    display: block;
+}
+
+.imge{
+    width: 110%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+    display: block;
+}
+
+
+section{
+    margin-top: 0%;
+}
